@@ -1,2 +1,0 @@
-# omegat
-OmegaT Connector
