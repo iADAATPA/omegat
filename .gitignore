@@ -1,0 +1,10 @@
+build
+
+# Gradle
+.gradle
+.settings
+.project
+.classpath
+bin
+.nb-gradle
+gradle.properties
